@@ -1,16 +1,15 @@
-### Hi there 👋
+- Olá👋eu sou o Erik
+- Agora
+- Desenvolvedor frontend na gowdock.com 
+- À procura de um emprego a tempo inteiro
+- Biografia
+  23 anos de idade
+  De ipojuca PE, Brasil
+  Atualmente trabalhando com React, javascript,
+  Curiosidade: eu amo cozinhar 
+  Mais sobre mim: LinkedIn/ Erik Viana  
 
-<!--
-**erikbarros14/erikbarros14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      
+      
+                
