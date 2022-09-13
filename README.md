@@ -1,6 +1,6 @@
 - Olá👋eu sou o Erik
 - Agora
-- Desenvolvedor frontend na gowdock.com 
+- Desenvolvedor front end na gowdock.com 
 - À procura de um emprego a tempo inteiro
 - Biografia
 - 23 anos de idade
